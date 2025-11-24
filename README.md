@@ -6,14 +6,14 @@ AI-Based Drone Detection System is a cutting-edge, real-time drone detection sol
 
 Features
 
-  •Real-time drone detection using state-of-the-art YOLOv8 AI model
+  •Real-time drone detection using state-of-the-art YOLOv8 AI model.
 
-  •Affordable hardware deployment using Raspberry Pi
+  •Affordable hardware deployment using Raspberry Pi.
 
-  •High accuracy with minimal false alarms (~92% precision)
+  •High accuracy with minimal false alarms (~92% precision).
 
-  •Modular system architecture enabling ease of integration and scalability
+  •Modular system architecture enabling ease of integration and scalability.
 
-  •Customizable alerts via email, SMS, or push notifications
+  •Customizable alerts via email, SMS, or push notifications.
 
-  •Robust performance across weather conditions and times of the day
+  •Robust performance across weather conditions and times of the day.
